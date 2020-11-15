@@ -1,0 +1,4 @@
+19:47:21.423 [TestNG-tests-2] INFO  Academy.E2EProject.LoginPageNavigation -  LoginPageNavignarion-Invoked browser successfully
+19:47:22.379 [TestNG-tests-2] INFO  Academy.E2EProject.LoginPageNavigation -  LoginPageNavignarion-Clicked successfully
+19:47:22.525 [TestNG-tests-2] INFO  Academy.E2EProject.LoginPageNavigation -  LoginPageNavignarion-sent username successfully
+19:47:22.654 [TestNG-tests-2] INFO  Academy.E2EProject.LoginPageNavigation -  LoginPageNavignarion-sent password successfully

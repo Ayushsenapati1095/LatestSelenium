@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="Academy.E2EProject.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="LandingPage Test(failed)">
+    <classes>
+      <class name="Academy.E2EProject.landingpageNavigation">
+        <methods>
+          <include name="aftertesting"/>
+          <include name="landingPagenavigation"/>
+          <include name="beforetesting"/>
+        </methods>
+      </class> <!-- Academy.E2EProject.landingpageNavigation -->
+    </classes>
+  </test> <!-- LandingPage Test(failed) -->
+  <test thread-count="5" name="LoginPage Test(failed)">
+    <classes>
+      <class name="Academy.E2EProject.LoginPageNavigation">
+        <methods>
+          <include name="beforetesting"/>
+          <include name="LoginPagenavigation"/>
+          <include name="aftertesting"/>
+        </methods>
+      </class> <!-- Academy.E2EProject.LoginPageNavigation -->
+    </classes>
+  </test> <!-- LoginPage Test(failed) -->
+  <test thread-count="5" name="TitlePage Test(failed)">
+    <classes>
+      <class name="Academy.E2EProject.validateTitle">
+        <methods>
+          <include name="aftertesting"/>
+          <include name="Validatetitle"/>
+          <include name="beforetesting"/>
+        </methods>
+      </class> <!-- Academy.E2EProject.validateTitle -->
+    </classes>
+  </test> <!-- TitlePage Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

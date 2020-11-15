@@ -1,0 +1,5 @@
+12:59:09.614 [main] INFO  Academy.E2EProject.landingpageNavigation - landingpageNavigation-Invoked driver successfully
+12:59:15.221 [main] INFO  Academy.E2EProject.LoginPageNavigation -  LoginPageNavignarion-Invoked browser successfully
+12:59:15.294 [main] INFO  Academy.E2EProject.LoginPageNavigation -  LoginPageNavignarion-Clicked successfully
+12:59:16.161 [main] INFO  Academy.E2EProject.LoginPageNavigation -  LoginPageNavignarion-sent username successfully
+12:59:16.231 [main] INFO  Academy.E2EProject.LoginPageNavigation -  LoginPageNavignarion-sent password successfully

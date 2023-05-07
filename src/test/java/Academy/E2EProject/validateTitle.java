@@ -43,6 +43,15 @@ public WebDriver driver;
 		
 		driver.close();
 	}
+	
+	@Test(priority=2)
+	public void randomtest() {
+		
+		System.out.println("This is just a random Test. Checking for the GIT hub practice-1");
+		
+		
+	}
+	
 	}
 
 

@@ -47,7 +47,7 @@ public WebDriver driver;
 	@Test(priority=2)
 	public void randomtest() {
 		
-		System.out.println("This is just a random Test. Checking for the GIT hub practice-1");
+		System.out.println("This is just a random Test. Checking for the GIT hub practice-2");
 		
 		
 	}
